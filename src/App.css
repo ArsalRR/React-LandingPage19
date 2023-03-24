@@ -1,0 +1,80 @@
+*{
+  font-family: "poppins" sans-serif;
+}
+.awalan{
+  background-image: url('https://images.pexels.com/photos/2982449/pexels-photo-2982449.jpeg');
+  background-size: cover;
+  padding-top: 100px;
+  background-repeat: no-repeat;
+  color: aliceblue;
+}
+.awalan h1{
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+}
+.awalan p{
+  text-align: center;
+}
+.tentang{
+  background-image: url('https://images.pexels.com/photos/2675061/pexels-photo-2675061.jpeg?cs=srgb&dl=pexels-dids-2675061.jpg&fm=jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 150px;
+background-position: 10px;
+}
+.about{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+
+}
+.textjudul{
+  text-align: center;
+  font-size: 50px;
+ color: aliceblue;
+ font-weight: bold;
+ padding-top: 50px;
+}
+.card{
+  font-weight: bold;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  
+}
+.card img{
+  width: 400px;
+}
+.hubungi{
+  background-image: url('https://p4.wallpaperbetter.com/wallpaper/546/986/532/rainbow-nature-lake-hd-wallpaper-preview.jpg');
+  background-size: cover;
+  padding-top: 50px;
+  color: aliceblue;
+}
+
+.hubungi h2{
+  text-align: center;
+  padding-top: 50px;
+  font-weight: bold;
+} 
+.hubungi button:hover{
+background-color: black;
+}
+.GA{
+  background-image: url('https://media.istockphoto.com/id/1267107338/id/foto/koridor-sekolah-dengan-loker-ilustrasi-3d.jpg?b=1&s=612x612&w=0&k=20&c=QG8-FXJt_nsqIUR_TpNwqv7SWyBYTdgsAm464Dm32PQ=');
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-size: 20px;
+  color:azure;
+  padding-top: 100px;
+
+}
+.CT{
+  font-family: sans-serif;
+}
+.GA h1{
+font-family: sans-serif;
+font-weight: bold;
+margin-bottom: 50px;
+}
